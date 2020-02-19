@@ -58,3 +58,14 @@ if __name__ == "__main__":
 **demo:**
 
 ![image-20200218144738205](assets/image-20200218144738205.png)
+
+<u>**vendor confirm:**</u> https://github.com/totaljs/cms/commit/2a26c4c6a61d3fda4527a761716ef7e1c5f7c970
+
+![image-20200219205614764](assets/image-20200219205614764.png)
+
+---
+
+# TIMELINE:
+
+- **18/2/2020** : Report for vendor
+- **19/2/2020** : Vendor confirn and fix

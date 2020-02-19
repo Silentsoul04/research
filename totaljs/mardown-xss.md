@@ -34,3 +34,10 @@
 
 ![image-20200218133359623](assets/image-20200218133359623.png)
 
+---
+
+# TIMELINE:
+
+- **18/2/2020** : Report for vendor and won't fix 
+
+  
